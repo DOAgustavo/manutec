@@ -29,7 +29,3 @@ O **Manutec** é uma aplicação desenvolvida em Flutter para facilitar a gestã
 
 
 ---
-
-## 📂 Estrutura do Projeto
-
-O projeto está organizado da seguinte forma:

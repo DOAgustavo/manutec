@@ -26,9 +26,7 @@ O **Manutec** é uma aplicação desenvolvida em Flutter para facilitar a gestã
 ## 🚀 Tecnologias Utilizadas
 
 - **Frontend**: Flutter  
-- **Backend**: Node.js + Express (ou Firebase para MVP)  
-- **Banco de Dados**: Firebase ou PostgreSQL  
-- **Integrações**: API para leitura de QR Codes  
+
 
 ---
 
